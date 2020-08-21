@@ -56,6 +56,7 @@
 `vi ~/.zshrc`
 
 - Add the plugin name to the following list plugins=(git) typically line 71:  
+NOTE: elements in zsh arrays are separated by spaces. DO NOT use commas.
 `source ~/.zshrc`
 
 ## Thanx
