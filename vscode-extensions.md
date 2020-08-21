@@ -25,3 +25,9 @@
 - [Remote - SSH: ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
 - [vscode-icons: ](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)Icons for Visual Studio Code
 - [WakaTime: ](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)Metrics, insights, and time tracking automatically generated from your programming activity.
+- [Turbo Console Log: ](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)Automating the process of writing meaningful log messages.
+- [Path Intellisense: ](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)Visual Studio Code plugin that autocompletes filenames
+- [Color Highlight: ](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)Highlight web colors in your editor
+- [Better Comments: ](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)Improve your code commenting by annotating with alert, informational, TODOs, and more!
+- [jumpy: ](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)Jumpy provides fast cursor movement, inspired by Atom's package of the same name.
+- [Relative Path: ](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath)Get relative url paths from files in the current workspace.
